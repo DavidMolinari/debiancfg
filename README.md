@@ -6,7 +6,7 @@
 
 - Install le package sudo
 
-```apt-get install sudo -y```
+```bash apt-get install sudo -y```
 
 - Donner les droits à l'utilisteur USER ( A CHANGER )
 
